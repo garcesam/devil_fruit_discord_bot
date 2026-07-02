@@ -15,9 +15,6 @@ class MyClient(discord.Client):
         if message.content.startswith('$hello'):
             await message.channel.send('Hello World!')
 
-        if message.content.startswith('$fuck u'):
-            await message.channel.send('i am going to kill u father!')
-
 intents = discord.Intents.default()
 intents.message_content = True
 

@@ -1,2 +1,2 @@
-# meme_discord_bot
-Discord Bot that sends memes when requested
+#leveling bot
+Keeps track of activity in a server and awards xp
